@@ -8,6 +8,7 @@
 .venv
 site/*
 build/*
+env/
 
 # poetry
 poetry.lock
